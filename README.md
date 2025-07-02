@@ -5,6 +5,7 @@ This is a **Tableau dashboard project** that analyzes Airbnb listings data to un
 🔗 [View the Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/rithika.r7940/viz/Airbinproject/Dashboard1?publish=yes)
 
 ---
+![Screenshot](![Screenshot 2025-07-01 213056](https://github.com/user-attachments/assets/4e59683f-fc4b-47c2-8f93-22b7f9a87f0d)
 
 ## Key Features
 
